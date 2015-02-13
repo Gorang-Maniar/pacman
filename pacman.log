@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "pacman.py", line 406, in <module>
+    raw_input()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "pacman.py", line 406, in <module>
+    raw_input()
+KeyboardInterrupt
+Traceback (most recent call last):
+  File "pacman.py", line 406, in <module>
+    raw_input()
+EOFError: EOF when reading a line
